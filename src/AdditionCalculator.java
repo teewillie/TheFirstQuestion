@@ -1,5 +1,10 @@
-
-
+/** Class: AdditionCalculator
+ * @author: Tee Willie
+ * @version: 1.0
+ * Course: ITEC 2150 Fall 2024
+ * Written: March 31, 2024
+ * Description: Creating a calculator prompting user to put two numbers to add.
+*/
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
